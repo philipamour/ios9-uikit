@@ -3,7 +3,7 @@ iOS 9b1 UIKit for Sketch
 
 Introducing the first most accurate and most complete iOS 9 UI template.
 
-I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-uikit/subscription "+Watch") this repo and [Follow Me on Twitter](https://twitter.com/philipamour "Follow Me on Twitter") to keep up to date on new updates.
+I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-uikit/subscription "+Watch") this repo and [Follow Me on Twitter](https://twitter.com/philipamour "Follow Me on Twitter") to keep up to date.
 
 ![Image](./Images/Image.png "Image")
 
