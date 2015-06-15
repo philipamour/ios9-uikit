@@ -48,3 +48,5 @@ Requires [Sketch](http://bohemiancoding.com/sketch/ "Sketch") and [San Francisco
 
 ===========
 *If you find anything missing and would like it to be added, please [create a new issue](https://github.com/philipamour/ios9-uikit/issues/new "Create a New Issue") - that way, it will be easy for me to fullfil and keep track of requests.*
+
+*Thanks a lot to [Bruno Martins](https://dribbble.com/brunus "Bruno Martins") (3D mockup, testing and feedback), [Ari](https://dribbble.com/ari "Ari") (testing and feedback) & [Louie Abreu](https://lmjabreu.com "Louie Abreu") (testing and feedback)*
