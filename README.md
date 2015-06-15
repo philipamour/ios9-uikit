@@ -5,8 +5,6 @@ Introducing the first most accurate and most complete iOS 9 UI template.
 
 I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-uikit/subscription "+Watch") this repo and [Follow Me on Twitter](https://twitter.com/philipamour "Follow Me on Twitter") to keep up to date on new updates.
 
-If you find anything missing and would like it to be added, please file a new issue - that way, it will be easy for me to fullfil and keep track of requests.
-
 ![Image](./Images/Image.png "Image")
 
 ## Features
@@ -14,11 +12,31 @@ If you find anything missing and would like it to be added, please file a new is
 - Document structure that is easy to use and navigate through
 
 ## Components
-- UINavigationBar (Modals + Segmented Controller + Search Bar and more)
-- UITabBar
-- UIAlertController (Alert + ActionSheet)
-- UITableView (Multiple Variations + Edit Mode)
-- Keyboard
+
+##### UINavigationBar
+- Dark & Light Version
+- Realistic Blur
+- Modals
+- Hierarchical Navigation
+- Segmented Controll
+- Search Bar
+
+##### UITabBar
+- Dark & Light Version
+- Realistic Blur
+
+##### UIAlertController
+- Alert Style
+- ActionSheet Style
+- Realistic Blur
+
+##### UITableView
+- Disclosure, Detail, Subtitle, Icon, ...
+- Edit Mode
+
+##### Keyboard
+- Dark & Light Version
+- Realistic Blur
 
 ## How to Use
 - Clone this repo
@@ -27,3 +45,6 @@ If you find anything missing and would like it to be added, please file a new is
 
 ## Dependencies
 Requires [Sketch](http://bohemiancoding.com/sketch/ "Sketch") and [San Francisco Font](https://developer.apple.com/fonts/ "San Francisco Font") 
+
+===========
+*If you find anything missing and would like it to be added, please file a new issue - that way, it will be easy for me to fullfil and keep track of requests.*
