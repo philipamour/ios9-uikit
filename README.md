@@ -47,4 +47,4 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 Requires [Sketch](http://bohemiancoding.com/sketch/ "Sketch") and [San Francisco Font](https://developer.apple.com/fonts/ "San Francisco Font") 
 
 ===========
-*If you find anything missing and would like it to be added, please file a new issue - that way, it will be easy for me to fullfil and keep track of requests.*
+*If you find anything missing and would like it to be added, please [create a new issue](https://github.com/philipamour/ios9-uikit/issues/new "Create a New Issue") - that way, it will be easy for me to fullfil and keep track of requests.*
