@@ -20,6 +20,7 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - Hierarchical Navigation
 - Segmented Controll
 - Search Bar
+- Safari Address Bar
 
 ##### UITabBar
 - Dark & Light Version
@@ -29,6 +30,10 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - Alert Style
 - ActionSheet Style
 - Realistic Blur
+
+##### UIActivityViewController
+- Realistic Blur
+- AirDrop examples
 
 ##### UITableView
 - Disclosure, Detail, Subtitle, Icon, ...
