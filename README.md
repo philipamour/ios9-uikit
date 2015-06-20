@@ -13,6 +13,13 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 
 ## Components
 
+##### Apps
+- Settings - Root
+- Photos - Moments
+- Messages - Root
+- Contacts - Root
+- Music - Playback
+
 ##### UINavigationBar
 - Dark & Light Version
 - Realistic Blur
