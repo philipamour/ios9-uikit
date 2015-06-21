@@ -19,7 +19,8 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - Messages - Root
 - Contacts - Root
 - Music - Playback
-- Safari - WebView
+- Safari - Webpage View
+- Email - All Inboxes
 
 ##### UINavigationBar
 - Dark & Light Version
