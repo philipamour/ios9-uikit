@@ -45,7 +45,7 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - AirDrop examples
 
 ##### UITableView
-- Disclosure, Detail, Subtitle, Icon, ...
+- Disclosure, Detail, Subtitle, Icon, Checkmark, ...
 - Edit Mode
 
 ##### Keyboard
