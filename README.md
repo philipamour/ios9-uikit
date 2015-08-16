@@ -22,7 +22,7 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - News - For You
 - Photos - Moments
 - Safari - Webpage View
-- Settings - Root
+- Settings - Root, Display & Brightness
 
 ##### UINavigationBar
 - Dark & Light Version
