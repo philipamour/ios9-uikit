@@ -17,7 +17,7 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - Contacts - Root
 - Email - All Inboxes
 - Maps - Root
-- Messages - Root
+- Messages - Root, Conversation View
 - Music - My Music, Now Playing
 - News - For You
 - Photos - Moments
