@@ -42,6 +42,10 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 - ActionSheet Style
 - Realistic Blur
 
+##### UIMenuController
+- Cut, Copy, Paste and Replace...
+- Realistic Blur
+
 ##### UIActivityViewController
 - Realistic Blur
 - AirDrop examples
