@@ -14,14 +14,15 @@ I will keep adding more goodies so [+Watch](https://github.com/philipamour/ios9-
 ## Components
 
 ##### Apps
-- Settings - Root
-- Photos - Moments
-- Messages - Root
 - Contacts - Root
+- Email - All Inboxes
+- Maps - Root
+- Messages - Root
 - Music - My Music, Now Playing
 - News - For You
+- Photos - Moments
 - Safari - Webpage View
-- Email - All Inboxes
+- Settings - Root
 
 ##### UINavigationBar
 - Dark & Light Version
